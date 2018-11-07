@@ -1,0 +1,16 @@
+// dentro da pasta
+git bash
+
+comando:
+//inicia repositorio
+git init
+
+//mostra git
+git status
+
+//adicionar no repositorio unico arquivo os todos
+git add index.html
+git add .
+
+//dar commit com mensagem
+git commit -m "Iniciando projeto"
