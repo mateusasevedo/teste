@@ -14,3 +14,14 @@ git add .
 
 //dar commit com mensagem
 git commit -m "Iniciando projeto"
+
+//passar caminho
+git remote add origin https://github.com/mateusasevedo/teste.git
+
+//mandar para o master
+git push origin master
+
+//criar branch nova
+git checkout -b nova-branch
+
+//
